@@ -1,4 +1,6 @@
 # branch
+title
+# letter_list cycle
 letter_list = [letter for letter in greeting]
 print(letter_list)
 number_list = [number for number in '0123456789']
