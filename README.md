@@ -38,11 +38,3 @@ number_set ={number **2 for number in range(3, 11)}
 print(number_set)
 letter_set = {letter.upper() for letter in "hello"}
 print(letter_set)
-# multiplication
-yummy = 'Yam'
-print(yummy * 3)
-print(yummy.upper())
-print(yummy.lower())
-print(yummy)
-long_string = 'This is the long string'
-print(long_string.split('s'))
